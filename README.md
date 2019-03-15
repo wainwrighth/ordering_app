@@ -1,16 +1,7 @@
 # ordering_app
 
-test app for ordering
+This app is a mock-up of some of the main pages on the Uber Eats app. This project was intended to be an implimentation of UI aspects using Flutter as is not intended to be used beyond testing purposes. I do not take ownership of the UI or structure of the app due in part of its being influenced solely by Uber Eats.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Most of the necessary files for running this project can be found in the lib and assets folders. Also be sure to review the included files and packages in the pubspec.
