@@ -1,0 +1,37 @@
+{
+  "restaurants" : [
+    {
+      "restaurant": "McDonald's",
+      "location": "123 Main St",
+      "image": "assets/burger_fries.png",
+      "info": "$ · American · Burgers · Fast Food",
+      "delivery_time": "15-25 Min",
+      "rating": "4.7",
+      "rating_count": "181",
+      "fee": "$4.49",
+      "fave": false
+    },
+    {
+      "restaurant": "Qdoba",
+      "location": "456 Market St",
+      "image": "assets/mexican.png",
+      "info": "$$ · Mexican",
+      "delivery_time": "15-25 Min",
+      "rating": "4.6",
+      "rating_count": "94",
+      "fee": "$4.49",
+      "fave": false
+    },
+    {
+      "restaurant": "IHOP",
+      "location": "789 Broadway",
+      "image": "assets/pancakes.jpeg",
+      "info": "$$ · American",
+      "delivery_time": "25-30 Min",
+      "rating": "4.8",
+      "rating_count": "65",
+      "fee": "$3.25",
+      "fave": false
+    }
+  ]
+}
